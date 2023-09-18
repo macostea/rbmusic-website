@@ -15,5 +15,6 @@
     "@nuxt/ui": "^2.8.1",
     "wavesurfer.js": "^7.3.2"
   },
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "packageManager": "yarn@3.6.3"
 }
